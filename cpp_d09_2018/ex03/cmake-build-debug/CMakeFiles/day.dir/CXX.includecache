@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/Character.hpp
+string
+-
+
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/Mage.hpp
+string
+-
+Character.hpp
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/Character.hpp
+
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/Priest.hpp
+Mage.hpp
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/Mage.hpp
+
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/Warrior.hpp
+Character.hpp
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/Character.hpp
+
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/main.cpp
+iostream
+-
+Priest.hpp
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/Priest.hpp
+Warrior.hpp
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/Warrior.hpp
+Mage.hpp
+/home/simontraww/delivery/pool/cpp_d09_2018/ex03/Mage.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/day.dir/Character.cpp.o CMakeFiles/day.dir/Warrior.cpp.o CMakeFiles/day.dir/Mage.cpp.o CMakeFiles/day.dir/Priest.cpp.o CMakeFiles/day.dir/main.cpp.o  -o day 

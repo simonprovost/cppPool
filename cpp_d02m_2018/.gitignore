@@ -1,0 +1,8 @@
+day2
+Makefile
+.idea/
+CmakeCache.txt
+CMakeFiles/
+CmakeLists.txt
+cmake-build-debug/
+./CMakeFiles/
