@@ -7,6 +7,9 @@
 
 <a name="top"></a>
 
+## GRADE obtained
+- Grade A
+
 ## Table of Contents 
 - [CppPool](#CppPool): **C++ Basics**
     - Second "Piscine" of Epitech, C++ programs to learn Object-oriented programming.
